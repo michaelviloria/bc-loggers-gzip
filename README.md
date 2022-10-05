@@ -19,3 +19,6 @@
 [![Artillery-whit-Logs.png](https://i.postimg.cc/qRgJk3Jm/Artillery-whit-Logs.png)](https://postimg.cc/Fd55p1Jc)
 
 > Todas las pruebas realizadas nos indican que en el caso que logueamos por consola la respuesta antes de ser enviada, el tiempo de respuesta es mayor y que en el mismo tiempo, se pueden manejar menos requests.
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f87c463-6074-46f2-99dd-e65949e06afe/deploy-status)](https://app.netlify.com/sites/loggers-gzip/deploys)
